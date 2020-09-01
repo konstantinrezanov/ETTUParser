@@ -15,4 +15,3 @@ def parseStation(stationID):
     dataframe=pd.DataFrame(data=data)
     return dataframe
 
-print(parseStation(3442).loc['0', :])
