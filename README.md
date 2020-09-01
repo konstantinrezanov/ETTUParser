@@ -1,4 +1,7 @@
 # ETTUParser
+
+*DISCLAIMER: Корректная работа модуля не гарантируется, так как возможны ~~изменения сайта ETTU~~ скорее уже второе пришествие. *
+
 This project parses ETTU(Ekaterinburg Tram and Trolley Administration) site for mass transit schedule. 
 
 Этот проект парсит сайт ЕТТУ(Екатеринбургское трамвайно-троллейбусное управление) на предмет времени до прибытия троллейбуса/трамвая на остановку.
