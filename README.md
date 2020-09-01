@@ -1,6 +1,6 @@
 # ETTUParser
 
-*DISCLAIMER: Корректная работа модуля не гарантируется, так как возможны ~~изменения сайта ETTU~~ скорее уже второе пришествие. *
+*DISCLAIMER: Корректная работа модуля не гарантируется, так как возможны ~~изменения сайта ETTU~~ второе пришествие и судный день. *
 
 This project parses ETTU(Ekaterinburg Tram and Trolley Administration) site for mass transit schedule. 
 
