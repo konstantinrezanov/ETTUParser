@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="ettuparser-djentelman", # Replace with your own username
-    version="1.0",
+    name="ettuparser", # Replace with your own username
+    version="1.1",
     author="Djentelman",
     author_email="djentelman@fjandinn.ml",
     description="This package parses ETTU site for mass transit schedule.",
@@ -18,5 +18,10 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3', 
+    install_requiers={
+    	'pandas', 
+    	'lxml', 
+    	'requests' 
+    } 
 )
