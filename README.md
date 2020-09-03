@@ -8,6 +8,8 @@ This project parses ETTU(Ekaterinburg Tram and Trolley Administration) site for 
 
 *The documentation for this repository is written in Russian, cause a problem that this project solves is applicable only to Yekaterinburg.*
 
+## Установка
+`pip install ettuparser`
 ## Использование
 Данный модуль зависит от `lxml` и `pandas`.
 
