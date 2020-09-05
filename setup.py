@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ettuparser", # Replace with your own username
-    version="1.1",
+    version="1.2",
     author="Djentelman",
     author_email="djentelman@fjandinn.ml",
     description="This package parses ETTU site for mass transit schedule.",

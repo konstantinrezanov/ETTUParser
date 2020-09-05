@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ettuparser
-Version: 1.1
+Version: 1.2
 Summary: This package parses ETTU site for mass transit schedule.
 Home-page: https://github.com/petruccinator3000/ETTUParser
 Author: Djentelman
